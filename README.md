@@ -1,1 +1,1 @@
-# New welcome to git!
+# The best welcome to git!
