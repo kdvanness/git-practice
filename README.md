@@ -1,2 +1,2 @@
-# Welcome to first git practice!
+# Welcome to git!
 
